@@ -1,44 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile README</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Vasu G</h1>
-    <h3 align="center">A passionate Software Developer</h3>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxmMTIxOTg5eXVkZng0Z3BqeXE2NW1wc2prZzl4d3p6eGE2NHBjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
 
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu657&label=Profile%20views&color=0e75b6&style=flat" alt="vasu657" /> </p>
+###
 
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasu657" alt="vasu657" /></a> </p>
+<p align="left">Hello World!!</p>
 
-    <ul>
-        <li>👨‍💻 All of my projects are available at <a href="https://vasu-ghanta.web.app/">https://vasu-ghanta.web.app/</a></li>
-        <li>💬 Ask me about **AWS,Python,DevOps and Networking**</li>
-        <li>📫 How to reach me <a href="mailto:vasughanta660@gmail.com">vasughanta660@gmail.com</a></li>
-        <li>⚡ Fun fact **I am**</li>
-    </ul>
+###
 
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-        <a href="https://linkedin.com/in/vasu-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu-g" height="30" width="40" /></a>
-        <a href="https://instagram.com/vasu_ghanta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_ghanta_" height="30" width="40" /></a>
-        <a href="https://medium.com/@vasu_ghanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vasu_ghanta" height="30" width="40" /></a>
-    </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu657&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasu657&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-        <!-- Add more icons as needed -->
-    </p>
+###
 
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu657&show_icons=true&locale=en&layout=compact" alt="vasu657" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Vasu657/count.svg?"  />
+</div>
 
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu657&show_icons=true&locale=en" alt="vasu657" /></p>
+###
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasu657&" alt="vasu657" /></p>
-</body>
-</html>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
+
+###

@@ -22,16 +22,16 @@
 ###
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE">
+  <a href="https://www.linkedin.com/in/vasu-g/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="YOUR_INSTAGRAM_PROFILE_URL_HERE">
+  <a href="https://www.instagram.com/vasu_ghanta_/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="YOUR_WHATSAPP_PROFILE_URL_HERE">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="YOUR_TELEGRAM_PROFILE_URL_HERE">
+  <a href="https://t.me/vasughanta">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>

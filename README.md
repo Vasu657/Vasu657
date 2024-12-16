@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,33 +12,27 @@
             --bg-dark: #121212;
             --text-dark: #f9f9f9;
         }
-
         body {
             margin: 0;
             font-family: Arial, sans-serif;
             transition: background-color 0.3s, color 0.3s;
         }
-
         .light-mode {
             background-color: var(--bg-light);
             color: var(--text-light);
         }
-
         .dark-mode {
             background-color: var(--bg-dark);
             color: var(--text-dark);
         }
-
         header {
             padding: 20px;
             text-align: center;
         }
-
         h1 {
             margin: 0;
             font-size: 2rem;
         }
-
         .theme-toggle {
             margin: 20px;
             cursor: pointer;
@@ -50,27 +44,22 @@
             font-size: 1rem;
             transition: background-color 0.3s;
         }
-
         .theme-toggle:hover {
             background-color: #0056b3;
         }
-
         .content {
             max-width: 800px;
             margin: auto;
             padding: 20px;
             line-height: 1.6;
         }
-
         .section {
             margin-bottom: 20px;
         }
-
         .section h2 {
             border-bottom: 2px solid currentColor;
             padding-bottom: 5px;
         }
-
         footer {
             text-align: center;
             padding: 20px;
@@ -91,7 +80,6 @@
             <p>🌟 <strong>Professional Summary</strong>: Skilled in data cleansing, visualization, and automation workflows using tools like <strong>Excel</strong>, <strong>SQL</strong>, <strong>Power BI</strong>, and <strong>Python</strong>.</p>
             <p>🎓 <strong>Education</strong>: Bachelor of Engineering in Computer Science from Jain Institute of Technology (VTU)</p>
         </div>
-
         <div class="section">
             <h2>Tools and Technologies ⚒️</h2>
             <ul>
@@ -103,7 +91,6 @@
                 <li><strong>Linux</strong>: Server Administration, Scripting</li>
             </ul>
         </div>
-
         <div class="section">
             <h2>Interests and Hobbies 🎨</h2>
             <ul>
@@ -113,7 +100,6 @@
                 <li>🖌️ Sketching and graphic design</li>
             </ul>
         </div>
-
         <div class="section">
             <h2>Web Presence 🌐</h2>
             <ul>
@@ -126,7 +112,6 @@
     <footer>
         &copy; 2024 Vasu Ghanta. Built with ❤️ for GitHub.
     </footer>
-
     <script>
         function toggleTheme() {
             const body = document.body;
@@ -144,4 +129,4 @@
     </script>
 </body>
 </html>
-```
+

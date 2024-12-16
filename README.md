@@ -1,50 +1,91 @@
-# 👋 Hello, I'm Vasu Ghanta
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxmMTIxOTg5eXVkZng0Z3BqeXE2NW1wc2prZzl4d3p6eGE2NHBjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
 
-## 🚀 Professional Profile
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/yourUsername" width="250" height="250" alt="Profile Picture" style="border-radius: 50%;" />
+</div>
 
-**Data Analyst | AWS & DevOps Engineer** with expertise in transforming complex data into actionable insights and building robust cloud infrastructure.
+###
 
-## 🛠️ Tech Arsenal
+<h1 align="center">Hi 👋, I'm Vasu Ghanta</h1>
+<h3 align="center">Data Analyst | AWS & DevOps Engineer | Cloud Technology Enthusiast</h3>
 
-### Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+###
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vasu657&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+</div>
 
-## 💡 About Me
+###
 
-- 🔬 Currently working as a Data Analyst at Darien Software Systems
-- 🏥 Specialized in Healthcare Patient Journey Optimization
-- 🌱 Passionate about leveraging data and cloud technologies to drive innovation
-- 📊 Expert in transforming complex data into strategic insights
+<h3 align="left">🛠 Tech Stack</h3>
 
-## 🌟 Key Achievements
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-- 🚀 Developed Power BI dashboards reducing appointment scheduling time by 20%
-- 🤖 Automated billing workflows, decreasing errors by 30%
-- 📈 Built predictive models for patient admission rate forecasting
-- ☁️ Implemented cloud-native solutions using AWS and Kubernetes
+###
 
-## 🤝 Connect With Me
+<h3 align="left">🚀 Professional Highlights</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-ghanta)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vasu-ghanta.web.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasughanta2k@gmail.com)
+<p align="left">
+• Data Analyst at Darien Software Systems specializing in Healthcare Analytics<br>
+• Developed Power BI dashboards reducing appointment scheduling time by 20%<br>
+• Automated billing workflows, decreasing errors by 30%<br>
+• Expert in AWS, DevOps, and Cloud Technologies<br>
+• Proficient in Python, SQL, Power BI, and Advanced Excel
+</p>
 
-## 🏆 Certifications
+###
 
-- AWS, DevOps & Linux Training
-- Python for Data Analysis
-- Full-Stack Web Development
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu657&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasu657&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-*Transforming data into insights, one query at a time.* 🚀📊
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Vasu657/count.svg?"  />
+</div>
+
+###
+
+<h3 align="left">🤝 Connect with me</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vasu-ghanta/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://vasu-ghanta.web.app/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/web/default.svg" width="52" height="40" alt="website logo"  />
+  </a>
+  <a href="mailto:vasughanta2k@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🏆 Certifications</h3>
+
+<p align="left">
+• AWS, DevOps & Linux Training<br>
+• Python for Data Analysis<br>
+• Full-Stack Web Development
+</p>
+
+###
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Motivational Quotes"/>
+</div>

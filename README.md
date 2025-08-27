@@ -59,20 +59,14 @@
 ## 📊 GitHub Stats  
 
 <div align="center">  
-  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Vasu657&show_icons=true&theme=radical&hide_border=true" height="160" />  
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Vasu657&theme=radical&hide_border=true" height="160" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu657&theme=radical&hide_border=true" height="160" />  
 </div>  
 
 <div align="center">  
-  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu657&layout=compact&theme=radical&hide_border=true" height="160" />  
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Vasu657&theme=radical&no-frame=true&row=1&column=6" height="160" />  
 </div>  
+
 
 
 

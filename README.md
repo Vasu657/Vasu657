@@ -56,20 +56,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
+<div align="center">  
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasu657&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Vasu657&theme=radical&hide_border=true" height="160" alt="streak graph"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasu657&show_icons=true&theme=radical&hide_border=true" height="160" />  
 
-<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Vasu657&theme=radical&hide_border=true" height="160" />  
+</div>  
+
+<div align="center">  
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu657&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu657&layout=compact&theme=radical&hide_border=true" height="160" />  
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Vasu657&theme=radical&no-frame=true&row=1&column=6" height="160" />  
+</div>  
+
+
 
 ---
 
@@ -82,6 +87,9 @@
   <a href="https://github.com/Vasu657">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://t.me/vasughanta">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/vasu_ghanta_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -89,6 +97,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 
 
 

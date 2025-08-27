@@ -77,18 +77,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vasu-g/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Vasu657">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  </a>
-  <a href="https://t.me/vasughanta">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="50"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vasu_ghanta_/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:vasughanta660@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 
 
 
